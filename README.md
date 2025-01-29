@@ -1,2 +1,7 @@
-# Try-Data
-Repository to try and understand data, play with it
+# Learning_About_Data
+
+What?
+
+How?
+
+Why?
